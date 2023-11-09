@@ -38,7 +38,7 @@
 - Swagger UI
 
 # Running the app
-1. Clone the repository: git clone https://github.com/Sirajuddin135/E-Commerce-Application.git
+1. Clone the repository: git clone https://github.com/Farheen-cell/E-Commerce-Application
 2. Import the project into STS:
   - Click File > Import...
   - Select Maven > Existing Maven Projects and click Next
